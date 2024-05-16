@@ -29,6 +29,13 @@ Domínio em técnicas de gerenciamento de projetos, Kickoff interno com foco na 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
+## GitHub Streak Starts
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Photodacapa&theme=gruvbox-duo&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
+## GitHub stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Photodacapa&theme=gruvbox&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 
 ## 🎧 _Playlists Favoritas_
 
